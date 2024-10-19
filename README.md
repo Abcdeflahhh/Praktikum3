@@ -157,17 +157,24 @@ Untuk hasil dari String Format 2 adalah :
 
 # Program bilangan terbesar dari 3 buah yg di inputkan
 ![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/a7908d4c8916a7be7bbb47fb40cb386299908970/Gambar%20WhatsApp%202024-10-18%20pukul%2010.48.10_a0a2f327.jpg)
+melalui pernyataan kondisi if-else, program membandingkan bilangan pertama dengan bilangan kedua dan ketiga, dan seterusnya
 
 Hasil output
 
 ![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/a7908d4c8916a7be7bbb47fb40cb386299908970/Gambar%20WhatsApp%202024-10-18%20pukul%2010.48.10_fb68ec98.jpg)
+
+untuk meminta pengguna memasukan tiga bilangan
 
 # Flowchart Bilangan terbesar dari N bilangan
 ![gambar](https://github.com/andreanbadeh/fotoo/blob/0d670d30789235f363332c5840dee4a8416d3b68/Gambar%20WhatsApp%202024-10-17%20pukul%2012.53.34_cd402e92.jpg)
 
 # Program bilangan terbesar N 
 ![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/be0ffbade3be1759ee41167716ae93d5bec42ce9/Gambar%20WhatsApp%202024-10-18%20pukul%2011.15.42_01bdaa17.jpg)
+setiap angka yang diinputkan diperiksa apakah lebih besar dari angka terbesar yang saat ini disimpan
 
 Hasil output
 
 ![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/be0ffbade3be1759ee41167716ae93d5bec42ce9/Gambar%20WhatsApp%202024-10-18%20pukul%2011.15.42_69b3c540.jpg)
+
+jika pengguna memasukan angka 0, program akan memberi tahu bahwa tidak ada bilangan yang dimasukkan dan tidak dapat melanjutkan untuk meminta bilangan selanjutnya
+
